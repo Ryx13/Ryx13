@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Ryan<br>A passionate frontend developer from India<br><br>    🌱 I’m currently learning Frameworks, Networking, OS, Programming and Cybersecurity Basics.<br><br>    📫 How to reach me ryanmuzi13@gmail.com<br><br>Connect with me:<br><br>Languages and Tools:<br><br>android cplusplus git html5 java linux matlab mongodb mssql mysql python 
+Hi 👋, I'm Ryan<br>A passionate Cybersecurity prodigy<br><br>    🌱 I’m currently learning Frameworks, Networking, OS, Programming and Cybersecurity Basics.<br><br>    📫 How to reach me ryanmuzi13@gmail.com<br><br>Connect with me:<br><br>Languages and Tools:<br><br>android cplusplus git html5 java linux matlab mongodb mssql mysql python 
 
 
 ## 🌐 Socials:
