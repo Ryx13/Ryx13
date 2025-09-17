@@ -48,4 +48,8 @@ Currently in my 2nd year at the University of the Witwatersrand, I’m deeply pa
 ## 📊 GitHub Stats:
 ![Visitor Count](https://visitcount.itsvg.in/api?id=Ryx13&icon=0&color=6)
 
+![Ryx13's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryx13&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryx13&layout=compact&theme=radical)
+
 <!-- Profile crafted by Ryan | Inspired by GPRM (https://gprm.itsvg.in) -->
