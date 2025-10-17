@@ -8,7 +8,7 @@ Currently in my 2nd year at the University of the Witwatersrand, I’m deeply pa
 
 ## 🧠 What I’m Working On:
 - 🔐 Building offensive security skills via **TryHackMe**, **Hack The Box**, and **freeCodeCamp**
-- 🎯 Studying for **CompTIA Security+** and deepening my red team knowledge
+- 🎯 Studying for **ISC2 CC** and deepening my red team knowledge
 - 🛠️ Learning penetration testing tools like `Nmap`, `Wireshark`, `Burp Suite`, and `Metasploit`
 - 🌐 Exploring CTFs and personal cybersecurity projects (coming soon!)
 
