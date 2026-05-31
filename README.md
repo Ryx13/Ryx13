@@ -2,13 +2,13 @@
 
 Hi there! 👋  
 I'm **Ryan**, a Cybersecurity & Computer Science student from Johannesburg, South Africa 🇿🇦  
-Currently in my 2nd year at the University of the Witwatersrand, I’m deeply passionate about **ethical hacking, red teaming, and digital security**.
+Currently in my 3rd year at the University of the Witwatersrand, I’m deeply passionate about **ethical hacking, red teaming, and digital security**.
 
 ---
 
 ## 🧠 What I’m Working On:
 - 🔐 Building offensive security skills via **TryHackMe**, **Hack The Box**, and **freeCodeCamp**
-- 🎯 Studying for **ISC2 CC** and deepening my red team knowledge
+- 🎯 Studying and deepening my red team knowledge
 - 🛠️ Learning penetration testing tools like `Nmap`, `Wireshark`, `Burp Suite`, and `Metasploit`
 - 🌐 Exploring CTFs and personal cybersecurity projects (coming soon!)
 
