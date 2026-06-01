@@ -1,4 +1,4 @@
-# Hey, I'm Ryan Dube 👾
+# Hey, I'm Ryan 👾
 
 **Offensive Security Student** | Penetration Testing | Red Teaming | BSc CS @ Wits '27
 
